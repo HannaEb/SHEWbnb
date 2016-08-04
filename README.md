@@ -36,7 +36,7 @@ This project is test-driven with RSpec-Capybara. To run all the tests, simply ru
 
 ## Authors:
 -------
-* Sity Shah
+* Hanna Eberhoefer
 * Emmett Walsh
 * Wayne Rumble
-* Hanna Eberhof
+* Sity Shah
